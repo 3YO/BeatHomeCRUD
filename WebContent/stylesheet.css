@@ -1,0 +1,19 @@
+body {
+	background-color: #ffffff;
+}
+
+a {
+	color: inherit;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+tr.lovelyrow:hover {
+	cursor: pointer;
+}
+
+table.nogap {
+	border-collapse: collapse;
+}
