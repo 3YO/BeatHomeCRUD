@@ -14,4 +14,4 @@ To create a CRUD application that lists tracks, adds tracks, deletes tracks and 
 * CSS
 * Bootstrap
 
-Project link: http://trillo.me:8080/beathome/
+Project link: http://www.trillo.me:8080/beathome/
